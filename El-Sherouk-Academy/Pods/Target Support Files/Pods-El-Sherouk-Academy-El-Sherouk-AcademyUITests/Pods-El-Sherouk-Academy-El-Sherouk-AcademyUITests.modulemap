@@ -1,0 +1,6 @@
+framework module Pods_El_Sherouk_Academy_El_Sherouk_AcademyUITests {
+  umbrella header "Pods-El-Sherouk-Academy-El-Sherouk-AcademyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
